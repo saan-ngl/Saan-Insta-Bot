@@ -17,10 +17,10 @@ module.exports = {
       const creditsText =
 `InstaBOT v${config.BOT_VERSION}
 
-Developer: frnAlt (https://github.com/frnAlt)
+Developer: 𝐒𝐈𝐀𝐌 𝐀𝐇𝐌𝐄𝐃 𝐒𝐀𝐀𝐍 (https://github.com/saan-ngl/Saan-Insta-Bot)
 Original Base & Native ICA: lazyneoaz (https://github.com/lazyneoaz/Insta-Bot.git)
 Ecosystem: 𝐒𝐀𝐀𝐍 𝐄𝐗𝐇𝐀𝐔𝐒𝐓𝐄𝐃-Chatbot / GoatBot V2 Architecture
-GitHub: https://github.com/frnAlt/InstaBOT
+GitHub: https://github.com/saan-ngl/Saan-Insta-Bot
 
 InstaBOT is a powerful, modular Instagram bot built for automation and fun with native ICA integration.
 
